@@ -6,11 +6,9 @@ Cybersecurity Specialist | SOC Analyst | Started Coding at 9 | Cybersecurity Sin
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
-[![Qais GitHub stats](https://github-readme-stats.vercel.app/api?username=QaisKA1&theme=dark)](https://github.com/QaisKA1)
-
 :computer: I'm a Blue Teamer and SOC Analyst with experience in monitoring, incident response, and threat hunting.
 
-:house_with_garden: From Jordan 🇯🇴
+:house_with_garden: From Jordan 
 
 :books: I’m passionate about digital forensics, OSINT, malware analysis, and Linux systems.
 
