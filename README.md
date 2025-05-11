@@ -8,7 +8,7 @@ Cybersecurity Specialist | SOC Analyst | Started Coding at 9 | Cybersecurity Sin
 
 :computer: I'm a Blue Teamer and SOC Analyst with experience in monitoring, incident response, and threat hunting.
 
-:house_with_garden: From Jordan 
+:house_with_garden: From UnKnow 
 
 :books: I’m passionate about digital forensics, OSINT, malware analysis, and Linux systems.
 
