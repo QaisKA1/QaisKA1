@@ -1,56 +1,145 @@
-## Hi there 👋
+# 👋 Hi, I'm Qais K.
 
-### I'm Qais K.
+### Cybersecurity Specialist | SOC Analyst | Security Researcher
 
-Cybersecurity Specialist | SOC Analyst | Started Coding at 9 | Cybersecurity Since 2014
-
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
-
-:computer: I'm a Blue Teamer and SOC Analyst with experience in monitoring, incident response, and threat hunting.
-
-:house_with_garden: From UnKnow 
-
-:books: I’m passionate about digital forensics, OSINT, malware analysis, and Linux systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Threat+Analysis;SOC+Operations+%26+Incident+Response;Digital+Security+%26+Online+Safety;Always+Learning%2C+Always+Improving" />
+</p>
 
 ---
 
-## 🛡️ Skills & Experience
-- SOC Monitoring & Threat Detection
-- Malware Analysis & Reverse Engineering
-- Digital Forensics & OSINT Investigations
-- Network Security & CCNA Certified
-- Bash Scripting | Linux | Automation
+### 🧑‍💻 About Me
+
+I'm a cybersecurity professional interested in security operations, threat analysis, digital investigations, and protecting online identities.
+
+My experience includes SOC operations, security monitoring, website security, infrastructure administration, incident investigation, and digital reputation protection.
+
+- 🔐 Cybersecurity & Security Operations
+- 🛡️ SOC Analysis and Incident Investigation
+- 🌐 Website Security & Infrastructure
+- 🔎 OSINT & Digital Investigations
+- 🧰 Linux, Networking & Security Tools
+- 📍 Jordanian | Based in the Middle East
 
 ---
 
-## 🧠 Certifications
-- Traning Cybersecurity Diploma – University of Jordan
-- 1 Year Experience as SOC Analyst
-- 30+ Microsoft Certifications
+### ⚔️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,windows,docker,git,github,cloudflare" />
+</p>
+
+**Security**
+- Security Monitoring & Alert Analysis
+- Incident Response & Investigation
+- Vulnerability Assessment
+- Website Security & Hardening
+- OSINT & Digital Investigations
+- Threat Intelligence
+
+**Infrastructure & Networking**
+- Linux Administration
+- Windows Systems
+- DNS & Domain Management
+- Networking Fundamentals
+- Firewall & Security Configuration
+- Docker & Virtualization
+
+**Tools & Technologies**
+- Nmap
+- Wireshark
+- Wazuh
+- Kali Linux
+- Git
+- Bash
 
 ---
 
-## 🌐 Social Networks
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qais-kabha)](https://www.linkedin.com/in/qais-kabha)
+### 🎓 Certifications & Education
 
-[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/IF5M)](https://tryhackme.com/p/IF5M)
-
-[![CyberDefenders Badge](https://img.shields.io/badge/-CyberDefenders-0f0f0f?style=flat-square&logo=google-chrome&logoColor=white&link=https://cyberdefenders.org/p/IF5M)](https://cyberdefenders.org/p/IF5M)
-
-[![CTFlearn Badge](https://img.shields.io/badge/-CTFlearn-000000?style=flat-square&logo=github&logoColor=white&link=https://ctflearn.com/user/IF5M)](https://ctflearn.com/user/IF5M)
-
----
-
-## 🏆 Cyber Platform Badges
-### 🔹 CyberDefenders
-[![CyberDefenders Badge](https://cyberdefenders.org/img/logo.svg)](https://cyberdefenders.org/p/IF5M)
-
-### 🔹 TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/IF5M.png" alt="TryHackMe Badge" />
+- 🎓 Cybersecurity Diploma — University of Jordan
+- 🏅 Google Cybersecurity Professional Certificate
+- 🛡️ ISC2 Certified in Cybersecurity — Candidate
+- 🌐 Cisco Networking & Cybersecurity Training
+- 📚 Continuous hands-on learning through cybersecurity labs and practical investigations
 
 ---
 
-## ✍️ Favorite Quote
-> *"Security is not a product, but a process."* – Bruce Schneier
+### 💼 Experience
 
-📌 **Since 2019, I’ve been working with real-world systems, identifying vulnerabilities, and participating in cyber investigations. My goal is to contribute to building secure and resilient digital infrastructures.**
+**Cybersecurity & Digital Security — Rased Tech**  
+`October 2025 – Present`
+
+- Digital reputation protection and online content investigations
+- Content removal requests and privacy-related cases
+- Digital footprint analysis and online exposure monitoring
+- Cybersecurity awareness and security research
+
+**SOC Analyst / Information Security**  
+`2023 – 2025`
+
+- Security monitoring and alert investigation
+- Suspicious email, attachment and link analysis
+- Incident reporting and investigation
+- Website security and infrastructure administration
+- DNS, domain and server management
+- Security troubleshooting and vulnerability identification
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IF5M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IF5M&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IF5M&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧪 Cybersecurity Platforms
+
+<p align="center">
+  <a href="https://tryhackme.com/p/IF5M">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/IF5M.png" alt="TryHackMe Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cyberdefenders.org/p/IF5M">
+    <img src="https://img.shields.io/badge/CyberDefenders-Blue%20Team-1565C0?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+  <a href="https://ctflearn.com/user/IF5M">
+    <img src="https://img.shields.io/badge/CTFlearn-Profile-black?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/qais-kabha">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rased.tech">
+    <img src="https://img.shields.io/badge/Rased_Tech-Website-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/IF5M">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Security is not a product, but a process."</i><br>
+  <b>— Bruce Schneier</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IF5M&style=flat-square&color=00F7FF&label=Profile+Views" />
+</p>
