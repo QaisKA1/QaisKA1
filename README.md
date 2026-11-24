@@ -1,427 +1,481 @@
+```markdown
 <div align="center">
 
+# Qais K.
 
-<img src="./assets/header.svg" width="100%" alt="Qais K. — Cybersecurity, Digital Safety and Trust & Safety" />
+### Cybersecurity Practitioner | Vulnerability Research | Digital Trust & Safety
 
+**Protecting People. Securing Systems. Investigating Threats.**
 
-CYBERSECURITY & TRUST & SAFETY SPECIALIST
+[![Website](https://img.shields.io/badge/RASED_TECH-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rased.tech)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qais-kabha)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QaisKA1)
 
-Security Operations · Threat Analysis · Digital Incident Response
-
-<br/>
-
-
-<a href="https://rased.tech"><img src="https://img.shields.io/badge/RASED_TECH-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=050816" alt="Rased Tech" /></a> 
-<a href="https://www.linkedin.com/in/qais-kabha"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a> 
-<a href="https://tryhackme.com/p/IF5M"><img src="https://img.shields.io/badge/TRYHACKME-111827?style=for-the-badge&logo=tryhackme&logoColor=FF4040" alt="TryHackMe" /></a> 
-<a href="https://cyberdefenders.org/p/IF5M"><img src="https://img.shields.io/badge/CYBERDEFENDERS-111827?style=for-the-badge&logo=target&logoColor=00D9FF" alt="CyberDefenders" /></a> 
-<a href="https://ctflearn.com/user/IF5M"><img src="https://img.shields.io/badge/CTFLEARN-111827?style=for-the-badge&logo=hackthebox&logoColor=00D9FF" alt="CTFlearn" /></a>
-
-<br/><br/>
-
-<a href="#about">ABOUT</a>   ◈   
-<a href="#experience">EXPERIENCE</a>   ◈   
-<a href="#arsenal">ARSENAL</a>   ◈   
-<a href="#education">EDUCATION</a>   ◈   
-<a href="#activity">ACTIVITY</a>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-IF5M-C11111?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/IF5M)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-IF5M-111827?style=flat-square)](https://cyberdefenders.org/p/IF5M)
+[![CTFlearn](https://img.shields.io/badge/CTFlearn-IF5M-2E8B57?style=flat-square)](https://ctflearn.com/user/IF5M)
 
 </div>
 
-⸻
-⸻
+---
 
 <div align="center">
 
+| 260+ | 30+ | 30+ | 130+ |
+|:---:|:---:|:---:|:---:|
+| Web Vulnerabilities Identified | SQL / MySQL Vulnerabilities | Cybersecurity Issues Addressed | Trust & Safety Cases |
 
-<img src="https://img.shields.io/badge/01-ABOUT-00D9FF?style=flat-square&labelColor=101B36" />
-
-
-Beyond the Screen. Behind Every Threat.
-
-Cybersecurity is not just about protecting systems. It is about protecting people.
+| 8+ | 10+ | 8+ | 7+ |
+|:---:|:---:|:---:|:---:|
+| Technical Domains | Network & Infrastructure Areas | Security Assessment Areas | Digital Investigation Areas |
 
 </div>
 
+## 01 / ABOUT
 
-<a id="about"></a>
+### Beyond the Screen. Behind Every Threat.
 
-whoami
+Cybersecurity is not only about protecting systems. It is also about protecting the people who depend on them.
 
-I'm a Cybersecurity & Trust & Safety Specialist with hands-on experience in security operations, digital safety, online threat monitoring, and incident investigation.
+I'm a cybersecurity practitioner focused on vulnerability discovery, security operations, website and infrastructure security, digital investigations, and Trust & Safety.
 
-My work combines technical cybersecurity knowledge with real-world digital harm response. I have handled cases involving privacy violations, harmful content, phishing, scams, impersonation, online abuse, cyber extortion, and victim protection.
+My experience combines technical security work with real-world digital harm response. I have worked on web application vulnerabilities, database security weaknesses, remote access exposure, email authentication issues, network infrastructure, server security, DNS, and hosting environments.
 
-I started exploring technology at the age of 9, experimenting with Minecraft server hosting, programming, device maintenance, system troubleshooting, and software configuration. That early curiosity gradually developed into a deeper interest in programming, networking, and cybersecurity.
+Alongside technical cybersecurity, I have handled cases involving privacy violations, impersonation, cyber extortion, harmful content, online abuse, and digital protection.
+
+I started exploring technology at the age of nine through Minecraft server hosting, programming, device maintenance, system troubleshooting, and software configuration. That early curiosity developed into practical experience in programming, networking, infrastructure, and cybersecurity.
+
+## 02 / SECURITY IMPACT
 
 <div align="center">
 
+| 260+ | 30+ | 30+ | 130+ |
+|:---:|:---:|:---:|:---:|
+| Web Vulnerabilities | SQL / MySQL Findings | Security Issues Resolved | Trust & Safety Cases |
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h2>130+</h2>
-<sub>REAL-WORLD CASES</sub>
-</td>
-<td align="center" width="33%">
-<h2>3+ Years</h2>
-<sub>HANDS-ON EXPERIENCE</sub>
-</td>
-<td align="center" width="33%">
-<h2>2 Domains</h2>
-<sub>CYBERSECURITY & TRUST</sub>
-</td>
-</tr>
-</table>
-
+| RDP | EMAIL | NETWORK | DNS |
+|:---:|:---:|:---:|:---:|
+| Remote Access Security | Authentication Weaknesses | Infrastructure Security | Domain & DNS Security |
 
 </div>
 
+### Security Research Highlights
 
-Core Areas
+- **260+ Web Vulnerabilities:** Identified across website and web application security assessments.
+- **30+ SQL / MySQL Vulnerabilities:** Identified database security weaknesses, including unauthorized access and excessive privilege exposure.
+- **RDP Security Findings:** Identified remote access weaknesses, including cases where remote access was possible without password authentication.
+- **Email Security Findings:** Identified authentication and access-control weaknesses that could allow unauthorized mailbox access without password entry.
+- **30+ Cybersecurity Issues:** Investigated and addressed across different technical environments.
+- **130+ Trust & Safety Cases:** Handled cases involving privacy violations, impersonation, cyber extortion, harmful content, online abuse, and digital protection.
 
-<div align="center">
+*Figures represent reported practical work. Some vulnerability categories may overlap; they should not be added together as a single vulnerability total.*
 
+## 03 / PROFESSIONAL EXPERIENCE
 
-<img src="https://img.shields.io/badge/SOC_Operations-111827?style=for-the-badge&logo=target&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Threat_Analysis-111827?style=for-the-badge&logo=virustotal&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Digital_Forensics-111827?style=for-the-badge&logo=files&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Trust_%26_Safety-111827?style=for-the-badge&logo=shield&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Incident_Response-111827?style=for-the-badge&logo=securityscorecard&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Network_Security-111827?style=for-the-badge&logo=cisco&logoColor=00D9FF" />
+### Rased Tech
+**Founder · Cybersecurity & Digital Trust**
+`2025 – Present` · [rased.tech](https://rased.tech)
 
+Building a cybersecurity and digital safety initiative focused on protecting people, organizations, and their digital presence.
 
-</div>
+- Handle digital safety and online harm cases.
+- Support privacy protection and harmful-content response.
+- Work on cyber extortion and online blackmail cases.
+- Address impersonation and identity-related abuse.
+- Support online content removal and reporting workflows.
+- Assist with digital reputation and privacy protection.
+- Review digital evidence and online threat indicators.
+- Support individuals and organizations facing digital threats.
 
-⸻
-<div align="center">
+### Eboom
+**Website Security & Infrastructure**
+`2024 – 2025`
 
+- Managed domains, DNS records, and hosting environments.
+- Monitored website availability and uptime.
+- Troubleshot website and server-related issues.
+- Worked with Django-based applications.
+- Reviewed basic website security weaknesses.
+- Assisted with security improvements and configuration.
+- Supported infrastructure maintenance and technical operations.
 
-<img src="https://img.shields.io/badge/02-EXPERIENCE-9B8CFF?style=flat-square&labelColor=101B36" />
+### Fire Rocks IT
+**Cybersecurity & Networking Intern**
+`Feb 2023 – Dec 2024` · Amman / Remote
 
+- Practiced network configuration and troubleshooting.
+- Worked with networking fundamentals and infrastructure.
+- Assisted with connectivity and system-related issues.
+- Supported IT infrastructure operations.
+- Developed practical knowledge of network security.
+- Worked with common networking technologies and tools.
 
-Professional Experience
+### NanoSoft
+**SOC Analyst**
+`Jan 2023 – Nov 2023` · Remote
 
-</div>
+- Monitored security alerts and suspicious activity.
+- Reviewed phishing emails and suspicious links.
+- Analyzed email attachments and potential indicators.
+- Examined suspicious screenshots and reported findings.
+- Monitored internal network activity.
+- Documented security observations and incidents.
+- Supported initial security analysis workflows.
 
+### M&M Security
+**SOC Analyst**
+`Jan 2023 – Nov 2023`
 
-<a id="experience"></a>
+- Assisted with security monitoring.
+- Reviewed suspicious events and alerts.
+- Performed initial incident analysis.
+- Documented observations and findings.
+- Supported security operations workflows.
 
-Rased Tech
-Founder · 2025 – Present
+### Cybercrime Unit — Jordan
+**Digital Trust & Safety Training**
+`Jan 2023 – Oct 2024` · On-site
 
-rased.tech · Cybersecurity · Digital Safety · Incident Response
+Training exposure focused on:
 
-- Founded and manage a cybersecurity and digital safety initiative.
-- Digital incident response and online harm mitigation.
-- Support for individuals and organizations facing digital threats.
-- Privacy protection and harmful-content response.
-- Cyber extortion, blackmail, and online abuse case handling.
-- More than 130 cases handled across cybersecurity and Trust & Safety.
-
-Eboom
-Website Security & Infrastructure · 2024 – 2025
-
-- Website security and infrastructure administration.
-- DNS, domains, and hosting management.
-- Website availability and security troubleshooting.
-- Django-based application and server-related work.
-- Basic vulnerability assessment and security improvements.
-
-M&M Security
-SOC Analyst · Jan – Nov 2023
-
-- Security monitoring and alert triage.
-- Reviewing security events and suspicious activity.
-- Initial incident analysis and documentation.
-- Supporting SOC monitoring workflows.
-
-NanoSoft
-SOC Analyst · Jan – Nov 2023
-
-- Security alert monitoring.
-- Phishing email, link, and attachment analysis.
-- Reviewing suspicious screenshots and indicators.
-- Internal network monitoring and reporting.
-
-Fire Rocks IT
-Cybersecurity & Networking Intern · Feb 2023 – Dec 2024
-
-- Practical networking and cybersecurity experience.
-- Network configuration and troubleshooting.
-- IT infrastructure and technical support.
-
-Cybercrime Unit — Jordan
-Digital Trust & Safety Training · Jan 2023 – Oct 2024
-
-- Exposure to cybercrime investigation workflows.
+- Cybercrime investigation workflows.
 - Digital forensics fundamentals.
-- Digital identity and online privacy protection.
-- Harmful online content and incident handling.
+- Digital identity protection.
+- Online privacy and digital safety.
+- Harmful online content analysis.
+- Incident review and documentation.
 - Cybersecurity practices in a government environment.
 
+### Freelance
+**SOC Analyst**
+`Jan 2023 – Nov 2024` · Remote
 
-Additional Experience
+- Reviewed suspicious emails and phishing indicators.
+- Supported security monitoring activities.
+- Analyzed potential digital threats.
+- Assisted with incident investigation.
+- Prepared technical observations and reports.
 
-Freelance SOC Analyst · Jan 2023 – Nov 2024
+## 04 / TECHNICAL EXPERIENCE & SECURITY RESEARCH
 
-- Security monitoring and phishing analysis.
-- Reviewing suspicious indicators and digital threats.
-- Supporting incident investigation and documentation.
-⸻
+### 01 — Web Application Security
+
+**260+ Web Vulnerabilities Identified**
+
+- Authentication and authorization weaknesses.
+- Broken access control and privilege escalation.
+- SQL injection and input validation weaknesses.
+- Cross-Site Scripting (XSS).
+- Cross-Site Request Forgery (CSRF).
+- Insecure Direct Object References (IDOR).
+- Local File Inclusion (LFI) and directory traversal.
+- Server-Side Request Forgery (SSRF).
+- Information disclosure and exposed resources.
+- Security misconfigurations and session weaknesses.
+
+**Tools:** Burp Suite · OWASP ZAP · Nmap · Nikto · ffuf · Gobuster · Dirsearch · SQLmap · Nuclei
+
+### 02 — SQL & Database Security
+
+**30+ SQL / MySQL Vulnerabilities Identified**
+
+- SQL injection vulnerabilities.
+- Unauthorized database access.
+- Excessive database privileges.
+- High-privilege database access weaknesses.
+- Database exposure and misconfigurations.
+- Authentication and permission weaknesses.
+- Database security configuration reviews.
+
+**Technologies:** MySQL · PostgreSQL · SQLite · Microsoft SQL Server · MongoDB
+
+### 03 — RDP & Remote Access Security
+
+- Identified exposed Remote Desktop services.
+- Discovered cases of remote access without password authentication.
+- Reviewed RDP authentication configurations.
+- Assessed remote access exposure.
+- Reviewed access-control and permission weaknesses.
+- Examined remote administration security settings.
+
+**Technologies:** RDP · Windows Server · Remote Administration · Network Security
+
+### 04 — Email Security
+
+- Identified email authentication weaknesses.
+- Discovered mailbox access vulnerabilities involving passwordless access.
+- Reviewed authentication and account-access controls.
+- Assessed email security configurations.
+- Investigated suspicious email activity.
+- Analyzed phishing links and attachments.
+- Reviewed email-related security indicators.
+
+### 05 — Network Security & Infrastructure
+
+- Network discovery and service enumeration.
+- Port scanning and exposed service assessment.
+- Firewall and access-control reviews.
+- Network segmentation and VLAN assessment.
+- DNS and DHCP security reviews.
+- Router and switch configuration assessment.
+- VPN and remote-access security reviews.
+- Network traffic inspection.
+- Identification of insecure services and configurations.
+- Network infrastructure troubleshooting.
+
+**Technologies:** Cisco · MikroTik · pfSense · TCP/IP · DNS · DHCP · VLAN · VPN · Wireshark · tcpdump
+
+### 06 — Windows, Linux & Server Security
+
+- Windows Server security assessment.
+- Linux server security review.
+- Active Directory security and permissions.
+- Misconfigured user and administrator privileges.
+- Remote administration exposure.
+- Service and authentication configuration reviews.
+- Server hardening and security troubleshooting.
+- Access-control and privilege configuration assessment.
+
+**Technologies:** Windows Server · Linux Server · Active Directory · PowerShell · Bash
+
+### 07 — DNS, Domains & Hosting Security
+
+- DNS configuration and security assessment.
+- DNS record and zone configuration reviews.
+- Subdomain and domain exposure assessment.
+- DNS zone transfer security checks.
+- Domain and hosting misconfigurations.
+- Hosting panel and server exposure reviews.
+- SSL/TLS configuration assessment.
+- Website and hosting infrastructure security.
+
+**Technologies:** DNS · Cloudflare · Domain Management · Apache · Nginx · SSL/TLS
+
+### 08 — Cloud & Hosting Security
+
+- Cloud and hosting configuration reviews.
+- Publicly exposed services and resources.
+- Access-control and permission weaknesses.
+- Insecure storage and resource exposure.
+- Server and hosting misconfigurations.
+- Deployment and infrastructure security reviews.
+- Website availability and infrastructure troubleshooting.
+
+### 09 — Digital Forensics & OSINT
+
+- Digital evidence awareness and review.
+- Metadata inspection.
+- Open-source intelligence gathering.
+- Digital footprint analysis.
+- Online identity research.
+- Suspicious profile investigation.
+- Public information correlation.
+- Basic forensic investigation workflows.
+
+**Tools:** Autopsy · Volatility · ExifTool · Maltego · theHarvester · SpiderFoot · Sherlock · Amass
+
+### 10 — Trust & Safety & Digital Protection
+
+**130+ Cases Handled**
+
+- Online privacy violations.
+- Impersonation and identity abuse.
+- Cyber extortion and blackmail.
+- Harmful content reporting.
+- Online harassment and abuse.
+- Digital reputation protection.
+- Content removal workflows.
+- Victim support and protection.
+- Digital evidence collection and documentation.
+
+### 11 — Security Operations & Incident Analysis
+
+- Security alert monitoring.
+- Initial alert triage.
+- Suspicious activity review.
+- Phishing email analysis.
+- Malicious link inspection.
+- Attachment analysis.
+- Internal network monitoring.
+- Incident documentation.
+- Security event investigation.
+
+**Tools:** Wazuh · Microsoft Sentinel · Elastic Security · TheHive
+
+### 12 — Penetration Testing & Security Utilities
+
+- Network discovery.
+- Port scanning.
+- Service enumeration.
+- Basic vulnerability scanning.
+- Web security testing.
+- Password security auditing.
+- Network traffic inspection.
+- Security tool usage and lab testing.
+
+**Tools:** Kali Linux · Metasploit · Nmap · Nessus · OpenVAS · Netcat · Shodan · Masscan · Hydra · John the Ripper · Hashcat · Aircrack-ng
+
+## 05 / PROGRAMMING & INFRASTRUCTURE
+
+### Programming & Development
+
+- Python
+- Bash
+- JavaScript
+- HTML5
+- CSS3
+- Django
+
+**Areas:** Scripting · Automation · Troubleshooting · Web Development · Security-Oriented Utilities
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- SQLite
+- Microsoft SQL Server
+- MongoDB
+
+### Virtualization, Systems & AI
+
+- Proxmox
+- VMware
+- VirtualBox
+- Docker
+- Ollama
+- Linux
+- Windows
+- Local LLM Deployment
+- AI Automation
+- GPU Computing
+- AI-Assisted Development
+- Home Lab Infrastructure
+
+## 06 / TECHNOLOGY STACK
+
 <div align="center">
 
+### Security & Networking
 
-<img src="https://img.shields.io/badge/03-TECHNICAL_ARSENAL-00D9FF?style=flat-square&labelColor=101B36" />
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 
+### Development & Infrastructure
 
-Tools. Systems. Methodologies.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### AI & Databases
+
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
+## 07 / EDUCATION
 
-<a id="arsenal"></a>
+**University of Jordan**  
+Cybersecurity Training Diploma · `2022 – 2023`  
+Result: Pass
 
-Technical Arsenal
+**University of Haifa**  
+CYS Course · `2021`
 
-<details open>
-<summary><b>01 — Security Operations & Threat Detection</b></summary>
-<br/>
+**University of Jordan**  
+CCNA Training · `May – November 2024`  
+Result: Pass
 
+## 08 / CERTIFICATIONS & PROFESSIONAL TRAINING
 
-Wazuh 
-Microsoft Sentinel 
-Elastic Security 
-TheHive 
-Suricata 
-Zeek
+| Organization | Certification / Training | Date |
+|:---|:---|:---:|
+| Google | Google Cybersecurity Certificate | Dec 2025 |
+| Google | Gemini Certified Educator | Nov 2025 |
+| IBM | Ethical Hacking with Open-Source Tools Professional Certificate V2 | Jan 2026 |
+| IBM | AI Engineering Professional Certificate V3 | Feb 2026 |
+| Cisco | CCNA: Introduction to Networks | Oct 2024 |
+| Pearson | CompTIA CySA+ CS0-003 Training Course | Feb 2026 |
+| ISC2 | Candidate Status | Current |
 
-Security Monitoring · Alert Triage · Log Analysis · Phishing Analysis · Incident Investigation · Threat Detection
+*The Pearson CySA+ entry represents training, not an earned CompTIA certification. ISC2 Candidate status is not a certification.*
 
-</details>
-
-
-<details>
-<summary><b>02 — Network Security & Infrastructure</b></summary>
-<br/>
-
-
-Cisco 
-MikroTik 
-pfSense 
-Cloudflare
-
-TCP/IP · DNS · DHCP · VLANs · VPNs · Active Directory · Windows Server · Linux Server · Apache · Nginx
-
-</details>
-
-
-<details>
-<summary><b>03 — Web Security & Application Testing</b></summary>
-<br/>
-
-
-Burp Suite · OWASP ZAP · Nmap · Nikto · ffuf · Gobuster · Dirsearch · SQLmap · Nuclei
-
-</details>
-
-
-<details>
-<summary><b>04 — Digital Forensics & OSINT</b></summary>
-<br/>
-
-
-Autopsy · Volatility · ExifTool · Maltego · theHarvester · SpiderFoot · Sherlock · Amass
-
-</details>
-
-
-<details>
-<summary><b>05 — Penetration Testing & Network Utilities</b></summary>
-<br/>
-
-
-Kali Linux · Metasploit · Hydra · John the Ripper · Hashcat · Aircrack-ng · Netcat · Wireshark · tcpdump · OpenVAS · Nessus · Shodan · Masscan
-
-</details>
-
-
-<details>
-<summary><b>06 — Programming & Development</b></summary>
-<br/>
-
-
-Python 
-Bash 
-JavaScript 
-HTML5 
-CSS3 
-Django
-
-</details>
-
-
-<details>
-<summary><b>07 — Databases</b></summary>
-<br/>
-
-
-MySQL · PostgreSQL · SQLite · MongoDB · Microsoft SQL Server
-
-</details>
-
-
-<details>
-<summary><b>08 — Virtualization, Systems & AI</b></summary>
-<br/>
-
-
-Linux 
-Kali Linux 
-Docker 
-Proxmox 
-VMware 
-Ollama
-
-VirtualBox · Windows · Linux · Home Labs · Local LLM Deployment · AI Automation · GPU Computing · AI-Assisted Development
-
-</details>
-
-⸻
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/04-EDUCATION_%26_CREDENTIALS-9B8CFF?style=flat-square&labelColor=101B36" />
-
-
-Education & Certifications
+[![Google](https://img.shields.io/badge/GOOGLE-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
+[![IBM](https://img.shields.io/badge/IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
+[![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Pearson](https://img.shields.io/badge/PEARSON-00A6D6?style=for-the-badge)](https://www.pearson.com/)
+[![ISC2](https://img.shields.io/badge/ISC2-00A4A6?style=for-the-badge)](https://www.isc2.org/)
 
 </div>
 
-
-<a id="education"></a>
-
-Education
-
-- University of Jordan — Cybersecurity Training Diploma
-
-- 2022 – 2023 · Pass
-- University of Haifa — CYS Course
-
-- 2021
-- University of Jordan — CCNA Training
-
-- May – November 2024 · Pass
-
-
-Certifications & Professional Training
+## 09 / CYBERSECURITY PLATFORMS
 
 <div align="center">
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-IF5M-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/IF5M)
 
-<a href="https://www.google.com/"><img src="https://img.shields.io/badge/GOOGLE-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a> 
-<a href="https://www.ibm.com/"><img src="https://img.shields.io/badge/IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" /></a> 
-<a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a> 
-<a href="https://www.pearson.com/"><img src="https://img.shields.io/badge/PEARSON-00A6D6?style=for-the-badge" /></a> 
-<a href="https://www.isc2.org/"><img src="https://img.shields.io/badge/ISC2-00A4A6?style=for-the-badge" /></a>
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-IF5M-111827?style=for-the-badge)](https://cyberdefenders.org/p/IF5M)
 
-</div>
-Organization	Certification / Training	Issued
-Google	Google Cybersecurity Certificate	Dec 2025
-Google	Gemini Certified Educator	Nov 2025
-IBM	Ethical Hacking with Open-Source Tools Professional Certificate V2	Jan 2026
-IBM	AI Engineering Professional Certificate V3	Feb 2026
-Cisco	CCNA: Introduction to Networks	Oct 2024
-Pearson	CompTIA Cybersecurity Analyst (CySA+) CS0-003 — Training Course	Feb 2026
-ISC2	Candidate	—
-⸻
-<div align="center">
-
-
-<img src="https://img.shields.io/badge/05-DIGITAL_PRESENCE-00D9FF?style=flat-square&labelColor=101B36" />
-
-
-Where I Learn & Practice
+[![CTFlearn](https://img.shields.io/badge/CTFlearn-IF5M-2E8B57?style=for-the-badge)](https://ctflearn.com/user/IF5M)
 
 </div>
 
+## 10 / LANGUAGES
 
-Cybersecurity Platforms
+| Language | Proficiency |
+|:---|:---|
+| Arabic | Native |
+| Hebrew | Conversational |
+| English | Working Proficiency |
+| Hindi / Urdu | Basic |
+| Indonesian | Learning |
+| Spanish | Learning |
 
-<div align="center">
-
-
-<a href="https://tryhackme.com/p/IF5M"><img src="https://img.shields.io/badge/TryHackMe-IF5M-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" /></a> 
-<a href="https://cyberdefenders.org/p/IF5M"><img src="https://img.shields.io/badge/CyberDefenders-IF5M-111827?style=for-the-badge&logo=target&logoColor=00D9FF" /></a> 
-<a href="https://ctflearn.com/user/IF5M"><img src="https://img.shields.io/badge/CTFlearn-IF5M-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
-
-</div>
-
-
-Languages
-Language	Proficiency
-Arabic	Native
-Hebrew	Conversational
-English	Working Proficiency
-Hindi / Urdu	Basic
-Indonesian	Learning
-Spanish	Learning
-⸻
-<div align="center">
-
-
-<img src="https://img.shields.io/badge/06-GITHUB_ACTIVITY-9B8CFF?style=flat-square&labelColor=101B36" />
-
-
-Activity & Statistics
-
-</div>
-
-
-<a id="activity"></a>
+## 11 / GITHUB ACTIVITY
 
 <div align="center">
-
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=QaisKA1&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=9B8CFF&text_color=EAFBFF&include_all_commits=true" />
 
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaisKA1&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=EAFBFF" />
 
-
 <br/>
-
 
 <img width="95%" src="https://streak-stats.demolab.com?user=QaisKA1&hide_border=true&background=050816&ring=00D9FF&fire=9B8CFF&currStreakLabel=00D9FF&sideLabels=EAFBFF&dates=8A9AB5&currStreakNum=EAFBFF&sideNums=EAFBFF" />
 
-
 <br/>
-
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=QaisKA1&bg_color=050816&color=EAFBFF&line=00D9FF&point=9B8CFF&area=true&hide_border=true" />
 
-
 <br/>
-
 
 <img src="https://komarev.com/ghpvc/?username=QaisKA1&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
-
 </div>
 
-⸻
+---
+
 <div align="center">
 
+### PROTECTING PEOPLE. SECURING SYSTEMS. INVESTIGATING THREATS.
 
-<img src="./assets/footer.svg" width="100%" alt="Footer graphic" />
+Cybersecurity · Vulnerability Research · Digital Trust · Responsible Technology
 
+[**RASED.TECH**](https://rased.tech)
 
-PROTECTING PEOPLE. SECURING SYSTEMS. INVESTIGATING THREATS.
-
-<sub>Cybersecurity · Digital Trust · Responsible Technology</sub>
-
-<br/>
-
-
-<a href="https://rased.tech"><b>RASED.TECH</b></a>
-
-</div>\n
+</div>
+```
