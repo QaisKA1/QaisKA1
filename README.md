@@ -77,7 +77,6 @@ I enjoy understanding how systems work, identifying weaknesses, investigating su
 
 <div align="center">
 
-<sub>Figures represent reported personal experience. Categories may overlap and should not be added together.</sub>
 
 </div>
 
